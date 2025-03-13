@@ -13,4 +13,4 @@ MultiClip is a simple lightweight snippet manager
 
 
 ### Download `.app`: (Needs approval in Settings > Privacy & Security)
-- https://mega.nz/file/ysRVWAwR#PMJ77s9viCJm_W9tf9hL1fh-3kmTzK2kAf-Vo26UUw0
+- [MultiClip Releases](https://github.com/omeriadon/MultiClip/releases/tag/Release)
