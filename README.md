@@ -10,7 +10,7 @@ Select item to copy
 
 <br>
 
-Latest release in https://github.com/omeriadon/MultiClip/releases/tag/v1.0
+Latest release in [https://github.com/omeriadon/MultiClip/releases/tag/v1.0](https://github.com/omeriadon/MultiClip/releases/tag/Release)
 
 I don't have an Apple Developer Program account so you need to go into Settings > Privacy & Security > Open Anyway
 
